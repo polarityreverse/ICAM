@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+     android:layout_height="match_parent" android:layout_width="match_parent"
+    android:orientation="vertical">
+<LinearLayout
+
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="5dp">
+
+    <Button
+        android:id="@+id/mpl1_mis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL1_MIS"/>
+    <Button
+        android:id="@+id/mpl2_mis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL2_MIS"/>
+    <Button
+        android:id="@+id/mpl3_mis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL3_MIS"/>
+    <Button
+        android:id="@+id/mpl5_mis"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL5_MIS"/>
+
+    <Button
+        android:id="@+id/mpl1_hfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL1_HFDV"/>
+    <Button
+        android:id="@+id/mpl2_hfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL2_HFDV"/>
+    <Button
+        android:id="@+id/mpl3_hfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL3_HFDV"/>
+    <Button
+        android:id="@+id/mpl5_hfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL5_HFDV"/>
+
+    <Button
+        android:id="@+id/mpl1_cfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL1_CFDV"/>
+    <Button
+        android:id="@+id/mpl2_cfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL2_CFDV"/>
+    <Button
+        android:id="@+id/mpl3_cfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL3_CFDV"/>
+    <Button
+        android:id="@+id/mpl5_cfdv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="MPL5_CFDV"/>
+
+</LinearLayout>
+</ScrollView>
